@@ -1,0 +1,29 @@
+/* Styles go here */
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+h1, p {
+  font-family: Lato;
+}
+h2, p {
+  font-family: Lato;
+}
+h4, p {
+  font-family: Lato;
+}
+h3, p {
+  font-family: Lato;
+  border-style: ridge;
+  border-radius: 10px;
+
+}
+
+.main{
+  background-color: rgb(250, 255, 255, 0.625);
+  border-radius: 10px;
+}
